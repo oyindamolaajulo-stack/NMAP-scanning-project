@@ -40,11 +40,9 @@ This step involes identifying services on the host machine (Target). To achieve 
 
 ### Step Five - Discovering Service Version Vulnerabilities ###
 
-We selected one of the identified services and searched for the version's vulnerabilities . Microsoft Windows RPC  below are the result and mititgation recommendation 
+We selected one of the identified services and searched for the version's vulnerabilities . Microsoft Windows RPC  below are the result and mititgation recommendations.
 
 
-
-
-
+<img width="830" height="327" alt="image" src="https://github.com/user-attachments/assets/269f8ae7-96bb-4f39-8d10-39c88f9a6918" />
 
 
