@@ -3,7 +3,7 @@ This project is focused on identifying devices in a network , checking for vulne
 
 ### Step One - Find your Network Range ### 
 To scan our device (host) for open ports , we need to identify its IP address 
-### Procedures ###
+** Procedures **
 
 
 * Start NMAP from the CMD terminal
@@ -18,6 +18,28 @@ To discover the devices on the network and determine all the IP addresses that a
 
 
 <img width="969" height="175" alt="image" src="https://github.com/user-attachments/assets/c7ed0437-e8b3-4427-b3a5-4814395804c2" />
+
+
+### Step Three - Scanning for Open Port ###
+This step involves identifying open ports on the host machine that can lead to an attack or security breach 
+** Procedures **
+
+
+* Select any of the IP address in the network
+* Use this map command to identify open ports (Nmap<HostIPAddress>).
+
+
+<img width="864" height="177" alt="image" src="https://github.com/user-attachments/assets/5109f9a7-7784-48ad-89d5-f0f32602a58a" />
+
+### Step Four - Identify Services ###
+This step involes identifying services on the host machine (Target). To achieve this with Nmap , we used the following command : nmap -sV
+
+
+<img width="941" height="200" alt="image" src="https://github.com/user-attachments/assets/fdf95fb9-4bb5-41a8-b9fc-779c8662a32b" />
+
+
+
+
 
 
 
