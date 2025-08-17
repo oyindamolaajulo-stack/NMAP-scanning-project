@@ -35,8 +35,12 @@ This step involves identifying open ports on the host machine that can lead to a
 This step involes identifying services on the host machine (Target). To achieve this with Nmap , we used the following command : nmap -sV
 
 
-<img width="941" height="200" alt="image" src="https://github.com/user-attachments/assets/fdf95fb9-4bb5-41a8-b9fc-779c8662a32b" />
+<img width="958" height="300" alt="image" src="https://github.com/user-attachments/assets/f6d59345-4866-4a7d-9cde-af7293520bcd" />
 
+
+### Step Five - Discovering Service Version Vulnerabilities ###
+
+We selected one of the identified services and searched for the version's vulnerabilities . Microsoft Windows RPC  below are the result and mititgation recommendation 
 
 
 
